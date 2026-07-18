@@ -1,1 +1,1 @@
-<img src="./assets/profile.png" alt="profile image with details">
+<img src="./assets/dark_mode.svg" alt="profile image with details">
