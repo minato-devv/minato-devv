@@ -1,1 +1,3 @@
-<img src="./assets/dark_mode.svg" alt="profile image with details">
+Local AI & Apple enthusiast
+
+Senior moderator for the Apple Den (https://discord.com/invite/appleden)
