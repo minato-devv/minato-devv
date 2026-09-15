@@ -1,3 +1,3 @@
-Local AI & Apple enthusiast
+# Local AI & Apple enthusiast
 
-Senior moderator for the Apple Den (https://discord.com/invite/appleden)
+## Senior moderator for the [Apple Den Discord server](https://discord.com/invite/appleden)n
