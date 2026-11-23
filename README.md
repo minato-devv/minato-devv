@@ -4,5 +4,7 @@ Local AI & Apple enthusiast
 
 Senior moderator for the [Apple Den Discord server](https://discord.com/invite/appleden)
 
+Most of my repositories are private.
+
 > [!IMPORTANT]
 > Migrated to Codeberg at https://codeberg.org/minato-devv
